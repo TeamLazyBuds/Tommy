@@ -1,2 +1,7 @@
 # Tommy
-Discord bot which provides moderation, welcomer, image manipulation and miscellaneous commands. Over 120 commands a very useful bot. 
+
+ 
+
+
+# Bot description
+Tommy is a multipurpose bot with a lot of features like memes, welcomer, anime, logs and much more!
