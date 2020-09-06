@@ -21,4 +21,5 @@ https://discord.gg/tytyS3z
 <a href=""> Image commands </a>
 <a href=""> Moderation commands </a>
 <a href=""> Welcomer commands </a>
-<a href=""> Meme commands </a>
+<a href=""> Settings commands </a>
+<a href=""> Core commands </a>
