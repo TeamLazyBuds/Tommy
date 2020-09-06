@@ -23,3 +23,5 @@ https://discord.gg/tytyS3z
 <a href=""> Welcomer commands </a>
 <a href=""> Settings commands </a>
 <a href=""> Core commands </a>
+<a href=""> Fun commands </a>
+<a href=""> Miscellaneous commands </a>
