@@ -18,11 +18,19 @@ https://discord.gg/tytyS3z
 
 # Commands 
 <a href=""> Meme commands </a>
+
 <a href=""> Anime commands </a>
+
 <a href=""> NSFW commands </a>
+
 <a href=""> Moderation commands </a>
+
 <a href=""> Welcomer commands </a>
+
 <a href=""> Settings commands </a>
+
 <a href=""> Core commands </a>
+
 <a href=""> Fun commands </a>
+
 <a href=""> Miscellaneous commands </a>
